@@ -1,6 +1,6 @@
 # spring-microservice
 
-## 03 협력하는 마이크로서비스 만들기
+## [03 협력하는 마이크로서비스 만들기](https://github.com/intaestellar/spring-microservice/pull/1)
 마이크로서비스의 기본 골격을 만들어 봤다.
 
 Controller가 없고 interface에서 service에 @RestController를 사용하는 코드가 있어서
