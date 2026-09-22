@@ -13,3 +13,6 @@ Controller가 없고 interface에서 service에 @RestController를 사용하는 
 도커 명령어와 Dockerfile, docker-compose를 이용해서 도커를 실행했다.
 
 책이 다양한 부분을 다루고 있어 지면의 한계상 각각의 단원들의 깊이가 좀 아쉽다.
+
+## [05 OpenAPI를 활용한 API 문서화](https://github.com/intaestellar/spring-microservice/pull/3)
+Swagger를 통해서 RestAPI를 문서화 하는 방법에 대해 학습하였다.
