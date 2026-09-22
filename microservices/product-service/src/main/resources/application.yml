@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: product-service
+server:
+  port: 7002
+
+logging:
+  level:
+    root: INFO
+    intae: DEBUG
+---
+spring:
+  config:
+    activate:
+      on-profile: docker
+server:
+  port: 8080
